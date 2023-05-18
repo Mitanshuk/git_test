@@ -1,0 +1,9 @@
+product163849,yoga mat,2,1000,seller_428691,user_285391,ordered
+product784539,headphones,5,5000,seller_213557,user_285391,ordered
+product152613,jacket,2,1700,seller_213557,user_285391,ordered
+product952847,t-shirt,4,800,seller_213557,user_285391,ordered
+product397821,dumbells,5,30,seller_428691,user_285391,ordered
+product163849,yoga mat,2,1000,seller_428691,user_285391,confirmed
+product397821,dumbells,5,30,seller_428691,user_285391,rejected because of wrong price
+product398714,toothpaste,1,50,seller_235698,user_661697,ordered
+product398714,toothpaste,1,50,seller_235698,user_661697,confirmed
